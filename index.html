@@ -215,8 +215,8 @@
       </div>
       <div class="modal-body">
         <p>Select a city to find popular jianbing spots.</p>
-        <button type="button" class="btn btn-primary">BEIJING</button>
-        <button type="button" class="btn btn-primary">SHANGHAI</button>  
+        <button type="button" class="btn btn-primary" id="beijBtn">BEIJING</button>
+        <button type="button" class="btn btn-primary" id="shangBtn">SHANGHAI</button>  
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary">Save changes</button>
@@ -603,6 +603,22 @@
       });
     }
   }
+      
+$( "#beijBtn" ).click(function() {
+     $('#myModal').modal('hide');
+     map.flyTo({
+        center: [116.4074, 39.9042],
+        zoom: 11
+      });
+});
+      
+$( "#shangBtn" ).click(function() {
+     $('#myModal').modal('hide');
+     map.flyTo({
+        center: [121.4737, 31.2304],
+        zoom: 11
+      });
+});      
 
 
     </script>
