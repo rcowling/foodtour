@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Changle Lu Food Stalls",
+        "Chinese_Address": "????70?????",
+        "English_Address": "70 Xiangyang Rd (North), near Changle Lu",
+        "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
+        "DESCRIPTION": "Get here before 10am to get one fo the best Jianbings in town!",
+        "image": "lady.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.454772,
+          31.219415
+        ]
+      }
+    }
+  ]
+}
