@@ -9,7 +9,7 @@
         "English_Address": "206 Gulou East Street, Dongcheng District",
         "Nearest_Subway": "Line 8 - Shichahai Exit C2",
         "DESCRIPTION": "In gulou area near tTemple bar & other nightlife hotspots.",
-        "image": "????(??????)?.jpeg"
+        "image": "wechat1900.jpeg"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "English_Address": "F?ng zhu?n ch?ng h?t?ng 1 ",
         "Nearest_Subway": "Line 8 - Shichahai Exit A",
         "DESCRIPTION": "Another hutong spot in the heart of the city.",
-        "image": ""
+        "image": "generic.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "English_Address": "Zaoying Road No. 3",
         "Nearest_Subway": "Line 10 - Agricultural exhibition center Exit A2",
         "DESCRIPTION": "Get the super tasty pulled pork filling they offer here.",
-        "image": ""
+        "image": "roujiamo_jianbing.jpeg"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "English_Address": "26 East Third Ring Road North",
         "Nearest_Subway": "Line 10 - Tuanjiehu SE Exit",
         "DESCRIPTION": "A great stop near Sanlitun commercial center. ",
-        "image": ""
+        "image": "jianbing3.jpg"
       },
       "geometry": {
         "type": "Point",

@@ -205,6 +205,11 @@
           margin-left: 38%;  
           }
           
+          .responsive {
+              width: 100%;
+              height: auto;
+          }
+
         
       </style>
   </head>
@@ -311,8 +316,8 @@
       var details = listing.appendChild(document.createElement('div'));
       details.innerHTML = prop.DESCRIPTION;
         
-      var image = listing.appendChild(document.createElement('IMG'));
-      image.innerHTML = '/images/' + prop.image;    
+      var image = listing.appendChild(document.createElement('div'));
+      image.innerHTML = '<img src="images/' + prop.image + '"class="responsive">';    
         
       var eng_address = listing.appendChild(document.createElement('div'));
       eng_address.innerHTML = prop.English_Address;
