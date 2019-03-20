@@ -1,11 +1,11 @@
-{
+﻿{
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "NAME": "????",
-        "Chinese_Address": "????????206?",
+        "NAME": "牛油果子",
+        "Chinese_Address": "东城区鼓楼东大街206号",
         "English_Address": "206 Gulou East Street, Dongcheng District",
         "Nearest_Subway": "Line 8 - Shichahai Exit C2",
         "DESCRIPTION": "In gulou area near tTemple bar & other nightlife hotspots.",
@@ -22,9 +22,9 @@
     {
       "type": "Feature",
       "properties": {
-        "NAME": "????(??????)?",
-        "Chinese_Address": "?????1?",
-        "English_Address": "F?ng zhu?n ch?ng h?t?ng 1 ",
+        "NAME": "五谷煎饼(才强美食城店) ",
+        "Chinese_Address": "方砖厂胡同1号",
+        "English_Address": "Fāng zhuān chǎng hútòng 1 ",
         "Nearest_Subway": "Line 8 - Shichahai Exit A",
         "DESCRIPTION": "Another hutong spot in the heart of the city.",
         "image": "generic.JPG"
@@ -41,7 +41,7 @@
       "type": "Feature",
       "properties": {
         "NAME": "Zaoying Road Stall",
-        "Chinese_Address": "????3?",
+        "Chinese_Address": "枣营路甲3号",
         "English_Address": "Zaoying Road No. 3",
         "Nearest_Subway": "Line 10 - Agricultural exhibition center Exit A2",
         "DESCRIPTION": "Get the super tasty pulled pork filling they offer here.",
@@ -58,8 +58,8 @@
     {
       "type": "Feature",
       "properties": {
-        "NAME": "????",
-        "Chinese_Address": "?????26?",
+        "NAME": "五谷煎饼",
+        "Chinese_Address": "东三环北路26号",
         "English_Address": "26 East Third Ring Road North",
         "Nearest_Subway": "Line 10 - Tuanjiehu SE Exit",
         "DESCRIPTION": "A great stop near Sanlitun commercial center. ",
@@ -77,11 +77,11 @@
       "type": "Feature",
       "properties": {
         "NAME": "Yonghegong Food Stall",
-        "Chinese_Address": "?????155?",
+        "Chinese_Address": "雍和宫大街155号",
         "English_Address": "Yonghegong Dajie",
         "Nearest_Subway": "Line 5/2 - Yonghegong",
         "DESCRIPTION": "Our stop of choice in the hutong area close to the Lama Temple",
-        "image": "bhb bing.jpeg"
+        "image": "Wulu3.jpg"
       },
       "geometry": {
         "type": "Point",
