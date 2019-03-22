@@ -278,7 +278,9 @@
     scrollZoom: false
   });
 
-  
+  // Add zoom and rotation controls to the map.
+  map.addControl(new mapboxgl.NavigationControl(), 'top-right');
+
   // This adds the data to the map
   map.on('load', function (e) {
     $('#myModal').modal('show');
@@ -342,7 +344,7 @@
         flyToStore(clickedListing);
 
         // 2. Close all other popups and display popup for clicked store
-        createPopUp(clickedListing);
+        //createPopUp(clickedListing);
 
         // 3. Highlight listing in sidebar (and remove highlight for all other listings)
         var activeItem = document.getElementsByClassName('active');
@@ -389,7 +391,7 @@ $( "#beijBtn" ).click(function() {
                 flyToStore(marker);
 
                 // 2. Close all other popups and display popup for clicked store
-                createPopUp(marker);
+                //createPopUp(marker);
 
                 // 3. Highlight listing in sidebar (and remove highlight for all other listings)
                 var activeItem = document.getElementsByClassName('active');
