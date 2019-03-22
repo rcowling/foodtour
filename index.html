@@ -217,6 +217,37 @@
               border-color: #ef4136;
               border-radius: 0px;
           }
+          
+          .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {            
+            background-color: #ef4136;
+            border-color: #ef4136; /*set the color you want here*/
+          }
+          
+          .pin1 {
+              position: absolute;
+              top: 40%;
+              left: 50%;
+              margin-left: -115px;
+
+              border-radius: 50% 50% 50% 0;
+              border: 4px solid  #ef4136;
+              width: 30px;
+              height: 30px;
+              transform: rotate(-45deg);
+            }
+
+        .pin1::after {
+          position: absolute;
+          content: '';
+          width: 10px;
+          height: 10px;
+          border-radius: 50%;
+          top: 50%;
+          left: 50%;
+          margin-left: -5px;
+          margin-top: -5px;
+          background-color: #ef4136;
+        }
 
         
       </style>
@@ -234,14 +265,14 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Select a City</h5>
+        <div class="pin1" style="position: absolute; top: 10px; left: 120px;"></div><h5 class="modal-title">SELECT A CITY</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <p>Select a city to find popular jianbing spots.</p>
-        <button type="button" class="btn btn-primary" style="background-color: #ef4136; border-color: #ef4136;" id="beijBtn">BEIJING</button>
+        <button type="button" class="btn btn-primary" id="beijBtn">BEIJING</button>
         <button type="button" class="btn btn-primary" id="shangBtn">SHANGHAI</button> 
         <button type="button" class="btn btn-primary" id="globalBtn">GLOBAL</button>    
       </div>
@@ -314,7 +345,6 @@
             '<h4>' + currentFeature.properties.address + '</h4>')
           .addTo(map);
   }
-
 
   function buildLocationList(data) {
     for (i = 0; i < data.features.length; i++) {
