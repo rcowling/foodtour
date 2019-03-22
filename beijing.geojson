@@ -9,7 +9,7 @@
         "English_Address": "206 Gulou East Street, Dongcheng District",
         "Nearest_Subway": "Line 8 - Shichahai Exit C2",
         "DESCRIPTION": "In gulou area near tTemple bar & other nightlife hotspots.",
-        "image": "wechat1900.jpeg"
+        "image": "Wechat1900.jpeg"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "English_Address": "26 East Third Ring Road North",
         "Nearest_Subway": "Line 10 - Tuanjiehu SE Exit",
         "DESCRIPTION": "A great stop near Sanlitun commercial center. ",
-        "image": "jianbing3.jpg"
+        "image": "Jianbing3.jpg"
       },
       "geometry": {
         "type": "Point",
