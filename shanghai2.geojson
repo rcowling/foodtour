@@ -50,8 +50,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.446292,
-          31.211106
+          121.4469998,
+          31.2112065
         ]
       }
     },
@@ -68,8 +68,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.457361,
-          31.212875
+          121.4562427,
+          31.2130933
         ]
       }
     },
@@ -77,7 +77,7 @@
       "type": "Feature",
       "properties": {
         "NAME": "Jing'an Jianbing",
-        "Chinese_Address": "329同仁路近南阳路",
+        "Chinese_Address": "Xuhui Qu, Shanghai Shi, China",
         "English_Address": "329 Tongren Lu, near Nanyang Lu",
         "Nearest_Subway": "Line 2/7 - Jing'an Temple",
         "DESCRIPTION": "A wide range of fillings awaits at this jianbing stall! Hours 5am-8pm.",
@@ -86,8 +86,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.44964,
-          31.2273
+          121.457519,
+          31.212866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "geographic center",
+        "Chinese_Address": "test",
+        "English_Address": "test",
+        "Nearest_Subway": "test",
+        "DESCRIPTION": "test",
+        "image": "test.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
         ]
       }
     }
