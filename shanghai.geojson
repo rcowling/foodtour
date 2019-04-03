@@ -8,7 +8,7 @@
         "Chinese_Address": "襄阳北路70号近长乐路",
         "English_Address": "70 Xiangyang Rd (North), near Changle Lu",
         "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
-        "DESCRIPTION": "Get here before 10am to get one fo the best Jianbings in town!",
+        "DESCRIPTION": "Get here before 10am to get one of the best Jianbings in town!",
         "image": "Fatty-2.jpg"
       },
       "geometry": {
@@ -27,7 +27,7 @@
         "English_Address": "261 South Qinzhou Lu, next to China Middle School ",
         "Nearest_Subway": "Line 1/3 - Shanghai South Railway Station",
         "DESCRIPTION": "Rated the #1 stall in Shanghai by Dianping's users (China's Yelp).",
-        "image": "Fatty-1.jpg"
+        "image": "sauce.JPG"
       },
       "geometry": {
         "type": "Point",
