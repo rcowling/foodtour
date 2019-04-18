@@ -1,0 +1,311 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "City Point Building\n445 Albee Square West\n",
+        "DESCRIPTION": "",
+        "state": "Brooklyn, New York, U.S.",
+        "Hours": "Sunday - Wednesday: 11am - 9pm\nThursday - Saturday: 11am - 10pm",
+        "image": "Jianbing_Company_1.jpg",
+        "NAME": "Jianbing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996769,
+          40.762581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "Hell's Kitchen\n600 11th Ave\nNew York, NY, 10036",
+        "DESCRIPTION": "",
+        "state": "Brooklyn, New York, U.S.",
+        "Hours": "Sunday - Thursday: 11am - 10pm\nFriday - Saturday: 11am - 11pm",
+        "image": "Jianbing_Company_2.jpg",
+        "NAME": "Jianbing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996744,
+          40.762413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "625 Atlantic Avenue\nBrooklyn, NY 11217",
+        "DESCRIPTION": "",
+        "state": "Brooklyn, New York, U.S.",
+        "Hours": "Saturday: 11am - 8pm\nSunday: 11am - 5pm\n",
+        "image": "Jianbing_Company_3.jpg",
+        "NAME": "Jianbing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975022,
+          40.683775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "Crown Heights\n899 Bergen Street\nBrooklyn, NY 11238",
+        "DESCRIPTION": "",
+        "state": "Brooklyn, New York, U.S.",
+        "Hours": "Tues, Fri and Sat 11am - 10pm\nWed, Thurs 11am - 3pm\nSun 11am - 9pm",
+        "image": "Jianbing_Company_4.jpg",
+        "NAME": "Jianbing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957648,
+          40.677394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "230 Park Ave,\nNew York, NY 10169",
+        "DESCRIPTION": "",
+        "state": "New York, New York",
+        "Hours": "10AM-9PM (Weekdays, Mon-Fri)\n11AM-5PM (Weekends, Sat-Sun)",
+        "image": "Mr_bing_1.jpg",
+        "NAME": "Mr Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.754754,
+          40.754754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "8 West 46th St,\nNY, NY 10036 ",
+        "DESCRIPTION": "",
+        "state": "New York, New York",
+        "Hours": "Mon-Fri 10am-9pm\nSat 11am-5pm\nSun Closed",
+        "image": "Mr_bing_2.jpg",
+        "NAME": "Mr Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979853,
+          40.756362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "152 West 28th St,\nNew York, NY 10001 ",
+        "DESCRIPTION": "",
+        "state": "New York, New York",
+        "Hours": "10AM - 6:30PM (Weekdays, Mon-Fri)\nCLOSED (Saturday & Sunday)",
+        "image": "Mr_bing_3.jpg",
+        "NAME": "Mr Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992822,
+          40.747016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "2800N Main St #1048  Santa Ana, CA 92705",
+        "DESCRIPTION": "",
+        "state": "California",
+        "Hours": "Mon - Fri: 11am - 8:30 pm\n​​Sat - Sun: 11am - 8 pm",
+        "image": "Ms_Bean.jpg",
+        "NAME": "Ms Bean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8699373,
+          33.7754537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "\n2 Marina Blvd,\nSan Francisco, California 94123",
+        "DESCRIPTION": "",
+        "state": "California",
+        "Hours": "​Every Friday\n05:00pm - 10:00pm",
+        "image": "Taichi_Jianbing_1.jpg",
+        "NAME": "Tai Chi Jianbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432544,
+          37.805621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "\n1325 9th Ave,\nSan Francisco, California 94122\n\n​",
+        "DESCRIPTION": "",
+        "state": "California",
+        "Hours": "Tues - Sun 9:00 AM to 2:30 PM",
+        "image": "Taichi_JIanbing_2.jpg",
+        "NAME": "Tai Chi Jianbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4664345,
+          37.7635407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "4730 University Way NE, Seattle, Washington 98105, United States",
+        "DESCRIPTION": "",
+        "state": "Seattle, Washington",
+        "Hours": "Mon- Thurs, Sunday\n10:00 am – 8:00 pm\nFri , Sat\n10:00 am – 11:45 pm\n",
+        "image": "BCZhang.jpg",
+        "NAME": "BCZhang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313782,
+          47.668769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "23 Greek Street, Soho\nLondon, United Kingdom",
+        "DESCRIPTION": "",
+        "state": "London, UK",
+        "Hours": "Mon - Sun 12PM to 8PM",
+        "image": "Pleasant_Lady_1.jpg",
+        "NAME": "Pleasant Lady Jian Bing Trading Stall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.130549,
+          51.513775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "Old Spitalfields Market",
+        "DESCRIPTION": "",
+        "state": "London, UK",
+        "Hours": "",
+        "image": "Pleasant_Lady_2.jpg",
+        "NAME": "Pleasant Lady Jian Bing Trading Stall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0778045,
+          51.5196411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "SW 9th & Alder\nPortland, OR 97204",
+        "DESCRIPTION": "",
+        "state": "Portland, Oregon",
+        "Hours": "Mon - Sun 7:30 AM to 3 PM",
+        "image": "Bing_Mi_1.jpg",
+        "NAME": "Bing Mi Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680796,
+          45.520468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "6035 Northeast Halsey Street, Portland, Oregon 97213, United States",
+        "DESCRIPTION": "",
+        "state": "",
+        "Hours": "",
+        "image": "Bing_Mi_2.jpg",
+        "NAME": "Bing Mi Food Truck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.600973,
+          45.534584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "232 SW Washington St\nPortland, OR 97204",
+        "DESCRIPTION": "",
+        "state": "Portland, Oregon",
+        "Hours": "Mon to Fri       11:00 am - 4:00 pm",
+        "image": "Stretch.jpg",
+        "NAME": "Stretch the Noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674424,
+          45.519499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "English_Address": "181A-181G Wan Chai Rd\nMorrison Hill, Wan Chai",
+        "DESCRIPTION": "灣仔灣仔道181A地下A鋪，集成中心對面/ 活道 ",
+        "state": "Hong Kong",
+        "Hours": "Mon - Sun 11:30 AM - 9:30 PM",
+        "image": "Yu_Chi_HK.jpg",
+        "NAME": "御廚煎餅 Yu Chu Jian Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.177763,
+          22.277375
+        ]
+      }
+    }
+  ]
+}
