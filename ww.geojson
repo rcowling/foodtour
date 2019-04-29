@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "City Point Building\n445 Albee Square West\n",
-        "DESCRIPTION": "",
+        "DESCRIPTION": "Inside Dekalb Market Hall",
         "state": "Brooklyn, New York, U.S.",
         "Hours": "Sunday - Wednesday: 11am - 9pm\nThursday - Saturday: 11am - 10pm",
         "image": "Jianbing_Company_1.jpg",
@@ -14,14 +15,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.996769,
-          40.762581
+          -73.985504,
+          40.691024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "Hell's Kitchen\n600 11th Ave\nNew York, NY, 10036",
         "DESCRIPTION": "",
         "state": "Brooklyn, New York, U.S.",
@@ -40,8 +42,9 @@
     {
       "type": "Feature",
       "properties": {
-        "English_Address": "625 Atlantic Avenue\nBrooklyn, NY 11217",
-        "DESCRIPTION": "",
+        "Chinese_Address": "",
+        "English_Address": "90 Kent Ave Williamsburg, NY",
+        "DESCRIPTION": "Smorgasburg Finest Jianbing",
         "state": "Brooklyn, New York, U.S.",
         "Hours": "Saturday: 11am - 8pm\nSunday: 11am - 5pm\n",
         "image": "Jianbing_Company_3.jpg",
@@ -50,14 +53,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.975022,
-          40.683775
+          -73.9621174,
+          40.7214893
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "Crown Heights\n899 Bergen Street\nBrooklyn, NY 11238",
         "DESCRIPTION": "",
         "state": "Brooklyn, New York, U.S.",
@@ -76,6 +80,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "230 Park Ave,\nNew York, NY 10169",
         "DESCRIPTION": "",
         "state": "New York, New York",
@@ -94,6 +99,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "8 West 46th St,\nNY, NY 10036 ",
         "DESCRIPTION": "",
         "state": "New York, New York",
@@ -112,6 +118,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "152 West 28th St,\nNew York, NY 10001 ",
         "DESCRIPTION": "",
         "state": "New York, New York",
@@ -130,6 +137,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "2800N Main St #1048  Santa Ana, CA 92705",
         "DESCRIPTION": "",
         "state": "California",
@@ -148,6 +156,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "\n2 Marina Blvd,\nSan Francisco, California 94123",
         "DESCRIPTION": "",
         "state": "California",
@@ -166,6 +175,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "\n1325 9th Ave,\nSan Francisco, California 94122\n\n​",
         "DESCRIPTION": "",
         "state": "California",
@@ -184,6 +194,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "4730 University Way NE, Seattle, Washington 98105, United States",
         "DESCRIPTION": "",
         "state": "Seattle, Washington",
@@ -202,6 +213,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "23 Greek Street, Soho\nLondon, United Kingdom",
         "DESCRIPTION": "",
         "state": "London, UK",
@@ -220,6 +232,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "Old Spitalfields Market",
         "DESCRIPTION": "",
         "state": "London, UK",
@@ -238,6 +251,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "SW 9th & Alder\nPortland, OR 97204",
         "DESCRIPTION": "",
         "state": "Portland, Oregon",
@@ -256,6 +270,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "6035 Northeast Halsey Street, Portland, Oregon 97213, United States",
         "DESCRIPTION": "",
         "state": "",
@@ -274,6 +289,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "232 SW Washington St\nPortland, OR 97204",
         "DESCRIPTION": "",
         "state": "Portland, Oregon",
@@ -292,6 +308,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "",
         "English_Address": "181A-181G Wan Chai Rd\nMorrison Hill, Wan Chai",
         "DESCRIPTION": "灣仔灣仔道181A地下A鋪，集成中心對面/ 活道 ",
         "state": "Hong Kong",
@@ -304,6 +321,139 @@
         "coordinates": [
           114.177763,
           22.277375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "",
+        "English_Address": "Xuzhou City, Jiangsu Province",
+        "DESCRIPTION": "Wenchan Campus Jianbing",
+        "state": "",
+        "Hours": "",
+        "image": "Nsangou.jpg",
+        "NAME": "China University of Mining and Technology "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1682993,
+          34.2175537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "萍乡市",
+        "English_Address": "",
+        "DESCRIPTION": "Roving Cart in Pingxiang, Jiangxi",
+        "state": "",
+        "Hours": "",
+        "image": "pingxiang.jpeg",
+        "NAME": "Pingxiang City Jianbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8006759,
+          27.6232976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "天津市古文化街",
+        "English_Address": "",
+        "DESCRIPTION": "Tianjin Ancient Culture Street",
+        "state": "",
+        "Hours": "",
+        "image": "tianjin.jpeg",
+        "NAME": "Tianjin Culture Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1905789,
+          39.1437226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "",
+        "English_Address": "G4 8 Cape Street, The Malabar, Dickson, ACT",
+        "DESCRIPTION": "",
+        "state": "",
+        "Hours": "",
+        "image": "littlewu1.jpg",
+        "NAME": "Little Wu Jianbing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1353182,
+          -35.2516131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "",
+        "English_Address": "21 Wentworth Ave, Old Bus Depot Markets, Kingston ACT",
+        "DESCRIPTION": "",
+        "state": "",
+        "Hours": "",
+        "image": "littlewu2.jpg",
+        "NAME": "Little Wu Jianbing - Sunday only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.141931,
+          -35.3126396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "深圳市罗湖区南庆街1-58号，距深圳地铁1/3号线老街站C口步行60m",
+        "English_Address": "1-58 Nanqing St Luohu, Shenzhen. About 60m from exit C of Laojie station on the SZ Metro)",
+        "DESCRIPTION": "",
+        "state": "",
+        "Hours": "",
+        "image": "shenzhen.jpg",
+        "NAME": "Shenzhen Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1127338,
+          22.54709997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chinese_Address": "",
+        "English_Address": "Via Paolo Sarpi, 27, 20154 Milano MI, Italy",
+        "DESCRIPTION": "Italian Jianbings! Mammamia!",
+        "state": "",
+        "Hours": "",
+        "image": "milan.png",
+        "NAME": "Ravioleria Sarpi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1737443,
+          45.4813436
         ]
       }
     }
