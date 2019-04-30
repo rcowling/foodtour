@@ -4,6 +4,61 @@
     {
       "type": "Feature",
       "properties": {
+        "NAME": "Ritan Park Jianbing",
+        "Chinese_Address": "东大桥路 和 日坛北路路口",
+        "English_Address": "At the intersection of Dong Daqiao Lu Ritan Bei Lu",
+        "Nearest_Subway": "Line 8 - Shichahai Exit C2",
+        "DESCRIPTION": "",
+        "image": "emilyconrad.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.444838,
+          39.9161535
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Shengfu Xiaoguan Market",
+        "Chinese_Address": "盛福小关市场",
+        "English_Address": "Inside Shengfu Xiaoguan Market",
+        "Nearest_Subway": "Line 8 - Shichahai Exit C2",
+        "DESCRIPTION": "Market Jianbing",
+        "image": "juliemarket.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4414417,
+          39.95163674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Peking University",
+        "Chinese_Address": "燕南食堂，北京大学",
+        "English_Address": "Yan Nan Food Court, Peking University",
+        "Nearest_Subway": "Line 8 - Shichahai Exit C2",
+        "DESCRIPTION": "",
+        "image": "pekinguniversity.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3021483,
+          39.9931356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "NAME": "牛油果子",
         "Chinese_Address": "东城区鼓楼东大街206号",
         "English_Address": "206 Gulou East Street, Dongcheng District",

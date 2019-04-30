@@ -4,6 +4,42 @@
     {
       "type": "Feature",
       "properties": {
+        "NAME": "Yanping Lu Area Jianbing",
+        "Chinese_Address": "康定路841号近胶州路",
+        "English_Address": "841 Kangding Road, near Jiaozhou Road",
+        "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
+        "DESCRIPTION": "",
+        "image": "yanping.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.436529462796,
+          31.2331774228901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Jianbing Huang",
+        "Chinese_Address": "同仁路329号，近南阳路",
+        "English_Address": "329 Tongren Lu, Near Nanyang Lu",
+        "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
+        "DESCRIPTION": "Making use of all the amazing additions available here - fully loaded with double egg, slivered potatoes and extra cilantro!",
+        "image": "harrisgreen.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.444858126424,
+          31.229243151457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "NAME": "Changle Lu Food Stalls",
         "Chinese_Address": "襄阳北路70号近长乐路",
         "English_Address": "70 Xiangyang Rd (North), near Changle Lu",
