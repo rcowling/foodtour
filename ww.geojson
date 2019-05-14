@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "Chinese_Address": "金龍路118號",
+        "English_Address": "",
+        "DESCRIPTION": "",
+        "state": "Brooklyn, New York, U.S.",
+        "Hours": "Sunday - Wednesday: 11am - 9pm\nThursday - Saturday: 11am - 10pm",
+        "image": "taipeijianbing.jpg",
+        "NAME": "雜糧煎餅果子"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5437372,
+          25.0645369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Chinese_Address": "",
         "English_Address": "City Point Building\n445 Albee Square West\n",
         "DESCRIPTION": "Inside Dekalb Market Hall",

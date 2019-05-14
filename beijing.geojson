@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "NAME": "Gulou Jianbing",
+        "Chinese_Address": "鼓楼东街33号3等",
+        "English_Address": "Gulou East Road, 33-3",
+        "Nearest_Subway": "Line 8 - Shichahai Exit C2",
+        "DESCRIPTION": "",
+        "image": "gulou.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.235659,
+          40.224674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "NAME": "Ritan Park Jianbing",
         "Chinese_Address": "东大桥路 和 日坛北路路口",
         "English_Address": "At the intersection of Dong Daqiao Lu Ritan Bei Lu",

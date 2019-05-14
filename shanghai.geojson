@@ -4,6 +4,60 @@
     {
       "type": "Feature",
       "properties": {
+        "NAME": "Jiangsu Lu",
+        "Chinese_Address": "长宁区江苏路536号",
+        "English_Address": "536 Jiangsu Road, Changing District, Shanghai",
+        "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
+        "DESCRIPTION": "",
+        "image": "jiangsulu.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.426424578629,
+          31.2199606206784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Xizang South Road",
+        "Chinese_Address": "黄浦区西藏南路336号",
+        "English_Address": "336 Xizang South Road, near Dalin Road",
+        "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
+        "DESCRIPTION": "",
+        "image": "Xizang.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.481149903942,
+          31.2145843981021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Hongqiao Jianbing",
+        "Chinese_Address": "",
+        "English_Address": "Hongqiao Huanzhen Rd (S) corner, near Hechuan Road",
+        "Nearest_Subway": "Line 1/10/12 - Shaanxi South Road",
+        "DESCRIPTION": "",
+        "image": "huanzhenlu.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.380241,
+          31.1722556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "NAME": "Yanping Lu Area Jianbing",
         "Chinese_Address": "康定路841号近胶州路",
         "English_Address": "841 Kangding Road, near Jiaozhou Road",
